@@ -22,7 +22,7 @@ This is a .Net Core solution containing two projects:
 
 # Running this project
 
-- The only requirement is to run the project with .Net Core 2.2 or lower installed
+- The only requirement to run this project is to have a computer with .Net Core, installed
 - When running this project there is some very basic interaction between the application and person running the solution
 - The flow of the application when is running is the following
    
