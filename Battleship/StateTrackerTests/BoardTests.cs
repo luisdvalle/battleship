@@ -1,4 +1,6 @@
-﻿using Xunit;
+﻿using StateTrackerProject.Domain;
+using StateTrackerProject.Enumerations;
+using Xunit;
 
 namespace StateTrackerTests
 {
