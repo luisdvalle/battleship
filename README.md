@@ -15,7 +15,7 @@ This solution implements the following functionality:
 
 # Technical Specifications
 
-This is a .Net Core solution containing two project:
+This is a .Net Core solution containing two projects:
 
 - A .Net Core Console project: Provides a very basic cli to initialise a game
 - A .Net Core XUnit project: Provides some UTs to test some functionality from Ship, Board and Game objects.
@@ -25,7 +25,8 @@ This is a .Net Core solution containing two project:
 - The only requirement is to run the project with .Net Core 2.2 or lower installed
 - When running this project there is some very basic interaction between the application and person running the solution
 - The flow of the application when is running is the following
-   Note: An exhaustive validatio for user input has not been implemented in this project.
+   
+   Note: An exhaustive validation for user input has not been implemented in this solution.
    
      1. User should indicate if they are ready to start a game
      
