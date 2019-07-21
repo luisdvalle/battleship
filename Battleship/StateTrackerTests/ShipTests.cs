@@ -1,4 +1,6 @@
 ﻿using System.Collections.Generic;
+using StateTrackerProject.Domain;
+using StateTrackerProject.Enumerations;
 using Xunit;
 
 namespace StateTrackerTests
