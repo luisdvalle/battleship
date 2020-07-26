@@ -1,7 +1,4 @@
 # Battleship
-Flare HR - Developer candidate home exercise
-
-Candidate: Luis Del Valle - 0452523942 | luis@luis-delvalle.com
 
 # General Specifications
 
